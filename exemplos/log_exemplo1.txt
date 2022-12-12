@@ -1,0 +1,143 @@
+
+[ + ] Qual filtro (palavra-chave) deseja utilizar?: website
+
+[ + ] Deseja utilizar filtro de comissão? ( s/n ): s
+
+[ + ] Comissão até (Ex: R$9999,99): R$999,99
+
+[ + ] Deseja utilizar filtro de avaliação? ( s/n ): s
+
+[ + ] Por qual avaliação deseja Filtrar? (escolha entre: 0 / 1 / 2 / 3 / 4 / 5 ): 1
+
+[ + ] Deseja utilizar filtro de temperatura? ( s/n ): s
+
+[ + ] Por qual temperatura deseja Filtrar? (escolha um numero inteiro entre 0 e 50): 1
+
+[ + ] Deseja utilizar limite de buscas? ( s/n ): s
+
+[ + ] Insira o limite de busca que deseja usar. (ex: 9, 99, 999, 9999...): 100
+
+[ + ] Insira um nome para o .txt! (padrao: "list.txt"): exemplo1
+
+DevTools listening on ws://127.0.0.1:57001/devtools/browser/36679906-666c-4cd9-937d-8202f18ce8
+[ ! ] Falha ao se conectar na plataforma! Tentando novamente. Por favor, aguardo um instante...
+
+DevTools listening on ws://127.0.0.1:57069/devtools/browser/8570b616-a605-4629-96b0-70175cd567
+[ + ] 1 "WEBSITE DO DESIGNER" Add to list.
+[ + ] 2 "WEBSITE - COMPLETO" Add to list.
+[ + ] 3 "WEBSITES PARA TODOS" Add to list.
+[ + ] 4 "DESENVOLVIMENTO DE WEBSITES" Add to list.
+[ + ] 5 "CONSULTORIA E CRIAÇÃO DE WEBSITES." Add to list.
+[ + ] 6 "WEBSITE PARA ADVOGADOS(AS)" Add to list.
+[ + ] 7 "CRIAÇÃO DE WEBSITES COM WORDPRESS" Add to list.
+[ + ] 8 "CRIAÇÃO DE WEBSITE BASICO" Add to list.
+[ + ] 9 "WEBSITE PESSOAL OU COMERCIAL" Add to list.
+[ + ] 10 "CURSO WEBSITE PRO" Add to list.
+[ + ] 11 "WEBSITE - PORTFÓLIO, BLOG, INSTITUCIONAL..." Add to list.
+[ + ] 12 "SERVIÇOS PROFISSIONAIS PARA WEBSITES" Add to list.
+[ + ] 13 "COMUNIDADE WEBSITES - STARTUP DO SITE" Add to list.
+[ + ] 14 "WEBSITE PARA BIO DO INSTA" Add to list.
+[ + ] 15 "ACESSIBILIDADE EM WEBSITES DE COMÉRCIO ELETRÔNICO" Add to list.
+[ + ] 16 "CRIAÇÃO DE WEBSITE HOTSITE PADRÃO" Add to list.
+[ + ] 17 "CURSO SEO INSTAGRAM E WEBSITES" Add to list.
+[ + ] 18 "WEBSITE - CONVERTA VISITANTES EM CLIENTES" Add to list.
+[ + ] 19 "CURSO - CRIAÇÃO DE WEBSITE - PLATAFORMA WEBNODE" Add to list.
+[ + ] 20 "TENHA UM WEBSITE PROFISSIONAL PARA SUA EMPRESA" Add to list.
+[ + ] 21 "CURSO - COMO HOSPEDAR, CONTRATAR E INSTALAR UM WEBSITE" Add to list.
+[ + ] 22 "CRIANDO WEBSITE PROFISSIONAL DO ABSOLUTO ZERO" Add to list.
+[ + ] 23 "WEBSITE A PRONTA ENTREGA PARA ESCRITÓRIOS DE ARQUITETURA" Add to list.
+[ + ] 24 "COMO CRIAR WEBSITES E SOFTWARES PROFISSIONAIS SEM SABER PROGRAMAR" Add to list.
+[ + ] 25 "WEBSITES PRO - SITES RESPONSIVOS E PROFISSIONAIS PARA TODOS NEGÓCIOS" Add to list.
+[ + ] 26 "MEU SITE ZERO. CRIAÇÃO DE WEBSITES DIVERSOS, SUPER PROMOÇÃO." Add to list.
+[ + ] 27 "WEBSITE + MARKETING DIGITAL SEO + IDENTIDADE VISUAL PRONTA!" Add to list.
+[ + ] 28 "FINTRACK - TEMPLATE PARA WEBSITE INSTITUCIONAL ONE PAGE" Add to list.
+[ + ] 29 "PACOTE PARA AFILIADOS WEBSITE: LANDING PAGE + E-MKT + SEO" Add to list.
+[ + ] 30 "WEB SCRAPING & WEB CRAWLING EM PYTHON COMPLETO - APRENDA A COLETAR DADOS DE WEBSITES DE FORMA AUTOMATIZADA" Add to list.
+[ + ] 31 "SEU SITE WORDPRESS EM MENOS DE 1 DIA" Add to list.
+[ + ] 32 "CURSOS PROFISSIONALIZANTES INECC" Add to list.
+[ + ] 33 "CURSO DE WEB DESIGNER BOOTSTRAP." Add to list.
+[ + ] 34 "SITE PROFISSIONAL RÁPIDO!" Add to list.
+[ + ] 35 "DESENVOLVIMENTO DE SITES INSTITUCIONAIS EM WORDPRESS" Add to list.
+[ + ] 36 "STANDOUT CRIADOR DE SITES" Add to list.
+[ + ] 37 "WEB SITE PROFISSIONAL" Add to list.
+[ + ] 38 "CARTÃO DIGITAL INTERATIVO - SEU SITE EM UM CLIQUE" Add to list.
+[ + ] 39 "ENSINO AWS - NA PRÁTICA!" Add to list.
+[ + ] 40 "ELEMENTOR PRO" Add to list.
+[ + ] 41 "COMO CRIAR UM SITE DO ZERO" Add to list.
+[ + ] 42 "CRIANDO SEU PRIMEIRO SITE (DREAMWEAVER)" Add to list.
+[ + ] 43 "EASY PÁGINAS" Add to list.
+[ + ] 44 "SITE COMPLETO HTML5 CSS3 COM MOBIRISE 5" Add to list.
+[ + ] 45 "POCKET DESIGNER COM CLIENTES EXPRESS" Add to list.
+[ + ] 46 "COMEÇANDO SUA ESTRATÉGIA DE MARKETING DIGITAL" Add to list.
+[ + ] 47 "VPS PARA WORDPRESS E-BOOK CONTRUINDO SEU SERVIDOR VPS" Add to list.
+[ + ] 48 "TEMA WORDPRESS PARA CLÍNICA ODONTOLÓGICA" Add to list.
+[ + ] 49 "A REVOLUÇÃO DO WEB DESIGN" Add to list.
+[ + ] 50 "CONECTABIO - ASSINATURA" Add to list.
+[ + ] 51 "DESENVOLVIMENTO DE SITES COM MOBIRISE 5" Add to list.
+[ + ] 52 "TEMPLATE LANDING PAGE DE EVENTOS PARA WORDPRESS+ ELEMENTOR" Add to list.
+[ + ] 53 "COMO CONSTRUIR SITES RENTÁVEIS" Add to list.
+[ + ] 54 "FLASH PAGES" Add to list.
+[ + ] 55 "VIVER DE WORDPRESS - GUIA DEFINITIVO" Add to list.
+[ + ] 56 "TEORIA DAS CORES" Add to list.
+[ + ] 57 "SITE - LANDING PAGE 2021" Add to list.
+[ + ] 58 "O REI DO MATCH" Add to list.
+[ + ] 59 "CURSO DE DESENVOLVIMENTO WEB DO ZERO" Add to list.
+[ + ] 60 "SUPER PACK WEB MASTER" Add to list.
+[ + ] 61 "WEB DESIGNER PROFISSIONAL" Add to list.
+[ + ] 62 "SITE PRO" Add to list.
+[ + ] 63 "COMO CRIAR UMA LOJA ONLINE" Add to list.
+[ + ] 64 "COMO CRIAR UM SITE" Add to list.
+[ + ] 65 "SITE/LOJA VIRTUAL/APLICATIVO MOBILE/ SISTEMAS DE RIFAS" Add to list.
+[ + ] 66 "IMERSITE" Add to list.
+[ + ] 67 "CRIAÇÃO DE SITE INSTITUCIONAL BÁSICO 300 REAIS COM HOSPEDAGEM GRÁTIS POR 1 ANO" Add to list.
+[ + ] 68 "WEBISTE INDUSTRIAL" Add to list.
+[ + ] 69 "O SITE CERTO - CURSO AVANÇADO WORDPRESS, ELEMENTOR E WOOCOMMERCE" Add to list.
+[ + ] 70 "CURSO POSICIONAMENTO MASTER 2.0" Add to list.
+[ + ] 71 "CRIAR SITES PROFISSIONAL" Add to list.
+[ + ] 72 "ESTRURA BÁSICA ONLINE - CRIE SUA EBO GRÁTIS" Add to list.
+[ + ] 73 "CURSO DE DESENVOLVIMENTO DE SITES EM JOOMLA" Add to list.
+[ + ] 74 "REVENDA CATÁLOGO VIRTUAL" Add to list.
+[ + ] 75 "SEU BRECHÓ NA INTERNET EM 30 MINUTOS!" Add to list.
+[ + ] 76 "SAIBA COMO ENGAJAR O SEU PÚBLICO" Add to list.
+[ + ] 77 "PACOTAÇO: LOGO + CARTÃO DE VISITA VIRTUAL" Add to list.
+[ + ] 78 "LP DE SUCESSO - SITEBOSS" Add to list.
+[ + ] 79 "SITEBOSS - UNIVERSIDADE DO SITE" Add to list.
+[ + ] 80 "A ESTRATÉGIA DAS PÁGINAS DE VENDAS DE SUCESSO" Add to list.
+[ + ] 81 "TEMA WORDPRESS PARA BLOG" Add to list.
+[ + ] 82 "SITEBOSS - UNIVERSIDADE DO SITE" Add to list.
+[ + ] 83 "ACTFORMA - APLICATIVO PARA PERSONAL TRAINERS E ACADEMIAS" Add to list.
+[ + ] 84 "SITE EDITÁVEL PARA AUTÔNOMOS" Add to list.
+[ + ] 85 "FRONTPUSH 2.0" Add to list.
+[ + ] 86 "VAI EMPREENDER?" Add to list.
+[ + ] 87 "OLIMPO" Add to list.
+[ + ] 88 "PÁGINA PRONTA DE TERMOS DE USO E POLÍTICAS DE PRIVACIDADE NOS PADRÕES LGPD" Add to list.
+[ + ] 89 "CHAT VOZ E VÍDEO LIGALIGA" Add to list.
+[ + ] 90 "WEBPROCESS" Add to list.
+[ + ] 91 "MOBIWEB" Add to list.
+[ + ] 92 "ARTE ABSTRATA- GELO" Add to list.
+[ + ] 93 "CURSO - DOMÍNIOS ESTRATÉGICOS INTELIGENTES PARA SEU NEGÓCIO ONLINE" Add to list.
+[ + ] 94 "AVANTE" Add to list.
+[ + ] 95 "MONTANHA" Add to list.
+[ + ] 96 "CRIAÇÃO DE WEB SITES - HOME PAGE" Add to list.
+[ + ] 97 "APLICATIVO PARA CRIAR PÁGINAS PELO CELULAR - 1 ANO DE MODO AVANÇADO" Add to list.
+[ + ] 98 "IMERSITE PRO" Add to list.
+[ + ] 99 "SEVERINO DIGITAL" Add to list.
+[ + ] 100 "PHP FORM SCRIPT - FORMULÁRIO DE CONTATO - ENVIO DE E-MAILS" Add to list.
+
+[ ~ ] FILTRANDO COMISSÃO!
+---------------------------------------------
+---------------------------------------------
+
+[ ~ ] FILTRANDO AVALIAÇÃO!
+---------------------------------------------
+---------------------------------------------
+
+[ ~ ] FILTRANDO TEMPERATURA!
+---------------------------------------------
+---------------------------------------------
+
+[ + ] Arquivo EXEMPLO1.TXT gerado com sucesso!
+
+[ ! ] Busca realizada com exito! Encerrando sistema...
+
+C:\hotmart_auto>

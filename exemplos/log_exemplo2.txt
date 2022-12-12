@@ -1,0 +1,269 @@
+[ + ] Qual filtro (palavra-chave) deseja utilizar?: emagrecer
+
+[ + ] Deseja utilizar filtro de comissão? ( s/n ): s
+
+[ + ] Comissão até (Ex: R$9999,99): R$50
+
+[ + ] Deseja utilizar filtro de avaliação? ( s/n ): n
+
+[ + ] Deseja utilizar filtro de temperatura? ( s/n ): n
+
+[ + ] Deseja utilizar limite de buscas? ( s/n ): s
+
+[ + ] Insira o limite de busca que deseja usar. (ex: 9, 99, 999, 9999...): 200
+
+[ + ] Insira um nome para o .txt! (padrao: "list.txt"): EXEMPLO2.txt
+
+DevTools listening on ws://127.0.0.1:57425/devtools/browser/f3efa650-6eaf-4754-8f10-23d5a106a54f
+[ + ] 1 "EMAGREÇA E EMAGREÇA-SE" Add to list.
+[ + ] 2 "EMAGREÇA OU EMAGREÇA." Add to list.
+[ + ] 3 "EMAGREÇA OU EMAGREÇA-SE 2.0" Add to list.
+[ + ] 4 "EMAGRECIMENTO" Add to list.
+[ + ] 5 "EMAGREÇAMENTE" Add to list.
+[ + ] 6 "COMO EMAGRECER" Add to list.
+[ + ] 7 "EMAGRECIMENTO" Add to list.
+[ + ] 8 "EMAGREÇA" Add to list.
+[ + ] 9 "EMAGRECIMENTO" Add to list.
+[ + ] 10 "EMAGRECIMENTO" Add to list.
+[ + ] 11 "EMAGRECIMENTO." Add to list.
+[ + ] 12 "EMAGRECIMENTO" Add to list.
+[ + ] 13 "EMAGREÇAMENTE" Add to list.
+[ + ] 14 "EMAGRECIMENTO" Add to list.
+[ + ] 15 "EMAGRECIMENTO" Add to list.
+[ + ] 16 "EMAGRECER" Add to list.
+[ + ] 17 "COMO EMAGRECER" Add to list.
+[ + ] 18 "EMAGRECIMENTO" Add to list.
+[ + ] 19 "EMAGRECIMENTO" Add to list.
+[ + ] 20 "EMAGRECER" Add to list.
+[ + ] 21 "EMAGREÇAMENTE" Add to list.
+[ + ] 22 "EMAGREÇA" Add to list.
+[ + ] 23 "COMO EMAGRECER" Add to list.
+[ + ] 24 "EMAGRECE QUEM QUER" Add to list.
+[ + ] 25 "EMAGRECER" Add to list.
+[ + ] 26 "TUDO SOBRE EMAGRECIMENTO" Add to list.
+[ + ] 27 "EMAGRECIMENTO" Add to list.
+[ + ] 28 "TUDO SOBRE EMAGRECIMENTO" Add to list.
+[ + ] 29 "EMAGRECIMENTO" Add to list.
+[ + ] 30 "GUIA DO EMAGRECIMENTO: EMAGREÇA SEM CULPA" Add to list.
+[ + ] 31 "EMAGRECIMENTO DEFINITIVO - APRENDA A EMAGRECER" Add to list.
+[ + ] 32 "GUIA DO EMAGRECIMENTO: EMAGREÇA DE VEZ" Add to list.
+[ + ] 33 "EMAGRECER RAPIDO E DESAFIO DE EMAGRECIMENTO." Add to list.
+[ + ] 34 "EMAGREÇA COM LEVEZA - MANUAL DO EMAGRECIMENTO" Add to list.
+[ + ] 35 "EMAGRECER COM SAÚDE - TUDO PARA EMAGRECER" Add to list.
+[ + ] 36 "VOCÊ QUER EMAGRECER OU SER EMAGRECIDO? - SÉRIE EMAGRECER EP. 01" Add to list.
+[ + ] 37 "AME EMAGRECER - ADMINISTRAÇÃO MENTAL DO EMAGRECIMENTO" Add to list.
+[ + ] 38 "ESCOLA DO EMAGRECIMENTO - EMAGREÇA ATRAVÉS DO AUTOCONHECIMENTO" Add to list.
+[ + ] 39 "EMAGRECER NA CERTA EMAGREÇA EM 8 SEMANAS" Add to list.
+[ + ] 40 "CONSULTORIA EM EMAGRECIMENTO! ENTRE AGORA E EMAGREÇA DE VERDADE." Add to list.
+[ + ] 41 "EMAGRECER 360 - EMAGRECIMENTO E QUALIDADE DE VIDA" Add to list.
+[ + ] 42 "EMAGREÇA COM SABOR - DOCES PARA EMAGRECER" Add to list.
+[ + ] 43 "CURSO COACHING DE EMAGRECIMENTO : EMAGRECER BEM" Add to list.
+[ + ] 44 "EMAGRECER EM 30 DIAS | EMAGRECIMENTO DE VERDADE" Add to list.
+[ + ] 45 "EMAGRECER COMENDO / EMAGRECER É UMA DELÍCIA" Add to list.
+[ + ] 46 "FÓRMULA DO EMAGRECIMENTO" Add to list.
+[ + ] 47 "EMAGRECER SEM DOR" Add to list.
+[ + ] 48 "EMAGRECIMENTO 2.0" Add to list.
+[ + ] 49 "EMAGRECER DE VEZ" Add to list.
+[ + ] 50 "EMAGRECENDO COM A MARY" Add to list.
+[ + ] 51 "EMAGRECIMENTO COM SAÚDE" Add to list.
+[ + ] 52 "COMO EMAGRECER DANÇANDO" Add to list.
+[ + ] 53 "EMAGREÇA COM PRAZER" Add to list.
+[ + ] 54 "EMAGREÇA COM SAÚDE" Add to list.
+[ + ] 55 "VIVA EMAGRECENDO" Add to list.
+[ + ] 56 "EMAGREÇA SEM MEDO" Add to list.
+[ + ] 57 "EMAGREÇA BASTANTE" Add to list.
+[ + ] 58 "EMAGREÇA COM CLASSE" Add to list.
+[ + ] 59 "EMAGRECIMENTO PRECOCE" Add to list.
+[ + ] 60 "EMAGRECIMENTO INTELIGENTE" Add to list.
+[ + ] 61 "COMER... EMAGRECER!" Add to list.
+[ + ] 62 "EMAGREÇA SEM MEDO" Add to list.
+[ + ] 63 "EMAGREÇA BASTANTE" Add to list.
+[ + ] 64 "EMAGREÇA COM CLASSE" Add to list.
+[ + ] 65 "EMAGRECIMENTO 21" Add to list.
+[ + ] 66 "COACHING DE EMAGRECIMENTO" Add to list.
+[ + ] 67 "EMAGRECENDO SEM MILAGRES!" Add to list.
+[ + ] 68 "EMAGRECI COMENDO" Add to list.
+[ + ] 69 "EMAGREÇA COM SAÚDE" Add to list.
+[ + ] 70 "EMAGREÇA HARD" Add to list.
+[ + ] 71 "EBOOK: EMAGREÇA" Add to list.
+[ + ] 72 "EMAGRECIMENTO PROGRESSIVO" Add to list.
+[ + ] 73 "EMAGRECER COMENDO TUDO" Add to list.
+[ + ] 74 "EMAGREÇA CORRETAMENTE" Add to list.
+[ + ] 75 "EMAGRECIMENTO SEM ESFORÇO" Add to list.
+[ + ] 76 "DECIDA EMAGRECER" Add to list.
+[ + ] 77 "EMAGRECIMENTO COM SAÚDE" Add to list.
+[ + ] 78 "EMAGREÇA DE VEZ!" Add to list.
+[ + ] 79 "GUIA DE EMAGRECIMENTO" Add to list.
+[ + ] 80 "EMAGREÇA COM CHOCOLATE" Add to list.
+[ + ] 81 "PROTOCOLO DO EMAGRECIMENTO" Add to list.
+[ + ] 82 "FACILITANDO O EMAGRECIMENTO" Add to list.
+[ + ] 83 "CAMINHOS DO EMAGRECIMENTO" Add to list.
+[ + ] 84 "PROJETO EMAGRECER" Add to list.
+[ + ] 85 "PLANNER DO EMAGRECIMENTO" Add to list.
+[ + ] 86 "MÉTODO DE EMAGRECIMENTO" Add to list.
+[ + ] 87 "APRENDA A EMAGRECER" Add to list.
+[ + ] 88 "EMAGREÇA LEVEMENTE" Add to list.
+[ + ] 89 "O SEGREDO DO EMAGRECIMENTO" Add to list.
+[ + ] 90 "EMAGREÇA COM FACILIDADE" Add to list.
+[ + ] 91 "MANUAL DO EMAGRECIMENTO" Add to list.
+[ + ] 92 "EMAGRECIMENTO SEM ESFORÇO" Add to list.
+[ + ] 93 "SIMPLIFIQUE E EMAGREÇA" Add to list.
+[ + ] 94 "PLANO DE EMAGRECIMENTO" Add to list.
+[ + ] 95 "EMAGRECIMENTO NATURAL" Add to list.
+[ + ] 96 "EMAGRECENDO EM CASA" Add to list.
+[ + ] 97 "EMAGRECENDO SEM NEURA" Add to list.
+[ + ] 98 "EMAGRECIMENTO 21" Add to list.
+[ + ] 99 "COACHING DE EMAGRECIMENTO" Add to list.
+[ + ] 100 "EMAGRECENDO SEM MILAGRES!" Add to list.
+[ + ] 101 "EMAGREÇA COM CHOCOLATE" Add to list.
+[ + ] 102 "PENSO LOGO ... EMAGREÇO" Add to list.
+[ + ] 103 "EMAGREÇA COMENDO" Add to list.
+[ + ] 104 "GUIA DE EMAGRECIMENTO" Add to list.
+[ + ] 105 "EMAGRECIMENTO COM SAÚDE" Add to list.
+[ + ] 106 "EMAGRECI COMENDO" Add to list.
+[ + ] 107 "EMAGREÇA COM SAÚDE" Add to list.
+[ + ] 108 "EMAGREÇA HARD" Add to list.
+[ + ] 109 "EBOOK: EMAGREÇA" Add to list.
+[ + ] 110 "EMAGRECIMENTO PROGRESSIVO" Add to list.
+[ + ] 111 "EMAGRECER COMENDO TUDO" Add to list.
+[ + ] 112 "EMAGREÇA CORRETAMENTE" Add to list.
+[ + ] 113 "EMAGREÇA COM PRAZER" Add to list.
+[ + ] 114 "EMAGREÇA COM SAÚDE" Add to list.
+[ + ] 115 "VIVA EMAGRECENDO" Add to list.
+[ + ] 116 "EMAGREÇA SEM MEDO" Add to list.
+[ + ] 117 "EMAGREÇA BASTANTE" Add to list.
+[ + ] 118 "EMAGREÇA COM CLASSE" Add to list.
+[ + ] 119 "UTI DO EMAGRECIMENTO" Add to list.
+[ + ] 120 "COMER... EMAGRECER!" Add to list.
+[ + ] 121 "EMAGREÇA EM CASA" Add to list.
+[ + ] 122 "EMAGREÇA COM SAÚDE" Add to list.
+[ + ] 123 "EMAGREÇA CONSCIENTE" Add to list.
+[ + ] 124 "O SEGREDO DO EMAGRECIMENTO" Add to list.
+[ + ] 125 "SPA DO EMAGRECIMENTO" Add to list.
+[ + ] 126 "LIBERDADE E EMAGRECIMENTO" Add to list.
+[ + ] 127 "FÓRMULA DO EMAGRECIMENTO" Add to list.
+[ + ] 128 "EMAGREÇA AGORA !" Add to list.
+[ + ] 129 "MARATONA DO EMAGRECIMENTO" Add to list.
+[ + ] 130 "EMAGRECIMENTO 2.0" Add to list.
+[ + ] 131 "EMAGRECER DE VEZ" Add to list.
+[ + ] 132 "COMO EMAGRECER DANÇANDO" Add to list.
+[ + ] 133 "EMAGREÇA COM PRAZER" Add to list.
+[ + ] 134 "EMAGREÇA COM SAÚDE" Add to list.
+[ + ] 135 "VIVA EMAGRECENDO" Add to list.
+[ + ] 136 "EMAGRECIMENTO SUSTENTÁVEL" Add to list.
+[ + ] 137 "QUER EMAGRECER COM SAÚDE?" Add to list.
+[ + ] 138 "GULOSEIMAS QUE EMAGRECEM" Add to list.
+[ + ] 139 "CAMINHADA EMAGRECE" Add to list.
+[ + ] 140 "EMAGRECENDO SEM FRESCURA" Add to list.
+[ + ] 141 "COMO EMAGRECER COM EFICIÊNCIA" Add to list.
+[ + ] 142 "SEGREDO DO EMAGRECIMENTO" Add to list.
+[ + ] 143 "CRENÇAS DO EMAGRECIMENTO" Add to list.
+[ + ] 144 "EMAGREÇA DE VEZ" Add to list.
+[ + ] 145 "EMAGREÇA DE VEZ" Add to list.
+[ + ] 146 "EMAGREÇA COM SAÚDE" Add to list.
+[ + ] 147 "EMAGRECIMENTO DEFINITIVO" Add to list.
+[ + ] 148 "A ESCOLA DO EMAGRECIMENTO" Add to list.
+[ + ] 149 "EMAGREÇIMENTO RAPIDO" Add to list.
+[ + ] 150 "COMO EMAGRECER RÁPIDO" Add to list.
+[ + ] 151 "COMA E EMAGREÇA!" Add to list.
+[ + ] 152 "PROTOCOLO DO EMAGRECIMENTO" Add to list.
+[ + ] 153 "EMAGREÇA DE VEZ" Add to list.
+[ + ] 154 "FATOR DE EMAGRECIMENTO" Add to list.
+[ + ] 155 "FACILITANDO O EMAGRECIMENTO" Add to list.
+[ + ] 156 "EMAGRECER DE VEZ" Add to list.
+[ + ] 157 "EMAGREÇA COM SAÚDE" Add to list.
+[ + ] 158 "EMAGREÇA JÁH" Add to list.
+[ + ] 159 "CAMINHOS DO EMAGRECIMENTO" Add to list.
+[ + ] 160 "PROJETO EMAGRECER" Add to list.
+[ + ] 161 "DESTRAVAR DO EMAGRECIMENTO" Add to list.
+[ + ] 162 "EMAGREÇA COM ANGINHA" Add to list.
+[ + ] 163 "EMAGRECIMENTO COM SAÚDE" Add to list.
+[ + ] 164 "EMAGRECENDO SAUDÁVEL" Add to list.
+[ + ] 165 "GUIA DE EMAGRECIMENTO" Add to list.
+[ + ] 166 "O MAPA DO EMAGRECIMENTO" Add to list.
+[ + ] 167 "SPA DO EMAGRECIMENTO" Add to list.
+[ + ] 168 "MARATONA DO EMAGRECIMENTO" Add to list.
+[ + ] 169 "FÓRMULA DO EMAGRECIMENTO" Add to list.
+[ + ] 170 "EMAGREÇA AGORA !" Add to list.
+[ + ] 171 "A VERDADE SOBRE O EMAGRECIMENTO" Add to list.
+[ + ] 172 "EMAGREÇA COM DETOX" Add to list.
+[ + ] 173 "EMAGRECENDO RAPIDO." Add to list.
+[ + ] 174 "LIBERDADE E EMAGRECIMENTO" Add to list.
+[ + ] 175 "EMAGREÇA DE VEZ!" Add to list.
+[ + ] 176 "O SEGREDO DO EMAGRECIMENTO" Add to list.
+[ + ] 177 "EMAGREÇA EM CASA" Add to list.
+[ + ] 178 "EMAGREÇA COM SAÚDE" Add to list.
+[ + ] 179 "EMAGREÇA CONSCIENTE" Add to list.
+[ + ] 180 "DECIDA EMAGRECER" Add to list.
+[ + ] 181 "EMAGRECENDO COM @ CABEÇA" Add to list.
+[ + ] 182 "RECEITAS DE EMAGRECIMENTO" Add to list.
+[ + ] 183 "EMAGRECIMENTO SAUDÁVEL" Add to list.
+[ + ] 184 "REVOLUÇÃO DO EMAGRECER" Add to list.
+[ + ] 185 "EMAGRECER COM SAÚDE" Add to list.
+[ + ] 186 "SALADAS QUE EMAGRECEM" Add to list.
+[ + ] 187 "EMAGREÇA LIVREMENTE" Add to list.
+[ + ] 188 "XTREME EMAGRECIMENTO" Add to list.
+[ + ] 189 "EMAGREÇA COMENDO" Add to list.
+[ + ] 190 "EMAGRECER COM SAÚDE" Add to list.
+[ + ] 191 "COMA MAIS E EMAGREÇA" Add to list.
+[ + ] 192 "EMAGRECIMENTO SAUDÁVEL" Add to list.
+[ + ] 193 "EMAGRECIMENTO DE FATO" Add to list.
+[ + ] 194 "EMAGRECIMENTO SAUDÁVEL!" Add to list.
+[ + ] 195 "OS CÓDIGOS DO EMAGRECIMENTO" Add to list.
+[ + ] 196 "GUIA DO EMAGRECIMENTO" Add to list.
+[ + ] 197 "EXERCITAR EMAGRECER" Add to list.
+[ + ] 198 "BÍBLIA DO EMAGRECIMENTO" Add to list.
+[ + ] 199 "EMAGRECIMENTO SEM MISTERIO" Add to list.
+[ + ] 200 "ENTENDA O EMAGRECIMENTO" Add to list.
+
+[ ~ ] FILTRANDO COMISSÃO!
+---------------------------------------------
+[ + ] COMISSÃO: R$199.26 | "EMAGREÇA OU EMAGREÇA." | https://tinyurl.com/2jzv73bd
+[ + ] COMISSÃO: R$82.17 | "COMO EMAGRECER" | https://tinyurl.com/2f6morx8
+[ + ] COMISSÃO: R$449.31 | "EMAGREÇAMENTE" | https://tinyurl.com/2e2r3lhz
+[ + ] COMISSÃO: R$52.14 | "EMAGRECER" | https://tinyurl.com/2e5r4kyv
+[ + ] COMISSÃO: R$53.74 | "GUIA DO EMAGRECIMENTO: EMAGREÇA SEM CULPA" | https://tinyurl.com/2g8mggtr
+[ + ] COMISSÃO: R$63.34 | "VOCÊ QUER EMAGRECER OU SER EMAGRECIDO? - SÉRIE EMAGRECER EP. 01" | https://tinyurl.com/2q9syo2c
+[ + ] COMISSÃO: R$178.60 | "AME EMAGRECER - ADMINISTRAÇÃO MENTAL DO EMAGRECIMENTO" | https://tinyurl.com/2pcrp5qe
+[ + ] COMISSÃO: R$52.14 | "EMAGRECER NA CERTA EMAGREÇA EM 8 SEMANAS" | https://tinyurl.com/2fzag4qd
+[ + ] COMISSÃO: R$53.42 | "CURSO COACHING DE EMAGRECIMENTO : EMAGRECER BEM" | https://tinyurl.com/2ehvmazm
+[ + ] COMISSÃO: R$88.50 | "EMAGREÇA COM PRAZER" | https://tinyurl.com/2hvtwn9p
+[ + ] COMISSÃO: R$58.27 | "VIVA EMAGRECENDO" | https://tinyurl.com/2drts9tv
+[ + ] COMISSÃO: R$1081.10 | "COACHING DE EMAGRECIMENTO" | https://tinyurl.com/2zya45xw
+[ + ] COMISSÃO: R$178.92 | "EMAGRECIMENTO PROGRESSIVO" | https://tinyurl.com/2hfuwnls
+[ + ] COMISSÃO: R$268.40 | "EMAGREÇA CORRETAMENTE" | https://tinyurl.com/2mo4ce2o
+[ + ] COMISSÃO: R$88.50 | "EMAGRECIMENTO SEM ESFORÇO" | https://tinyurl.com/2fflvgnd
+[ + ] COMISSÃO: R$179.56 | "EMAGREÇA COM CHOCOLATE" | https://tinyurl.com/2erxhhtu
+[ + ] COMISSÃO: R$120.20 | "PROTOCOLO DO EMAGRECIMENTO" | https://tinyurl.com/2gw9xtgx
+[ + ] COMISSÃO: R$88.50 | "EMAGRECIMENTO SEM ESFORÇO" | https://tinyurl.com/2fflvgnd
+[ + ] COMISSÃO: R$106.84 | "EMAGRECENDO EM CASA" | https://tinyurl.com/2pnmsb2n
+[ + ] COMISSÃO: R$1081.10 | "COACHING DE EMAGRECIMENTO" | https://tinyurl.com/2zya45xw
+[ + ] COMISSÃO: R$179.56 | "EMAGREÇA COM CHOCOLATE" | https://tinyurl.com/2erxhhtu
+[ + ] COMISSÃO: R$178.92 | "EMAGRECIMENTO PROGRESSIVO" | https://tinyurl.com/2hfuwnls
+[ + ] COMISSÃO: R$268.40 | "EMAGREÇA CORRETAMENTE" | https://tinyurl.com/2mo4ce2o
+[ + ] COMISSÃO: R$88.50 | "EMAGREÇA COM PRAZER" | https://tinyurl.com/2hvtwn9p
+[ + ] COMISSÃO: R$58.27 | "VIVA EMAGRECENDO" | https://tinyurl.com/2drts9tv
+[ + ] COMISSÃO: R$70.80 | "UTI DO EMAGRECIMENTO" | https://tinyurl.com/2kguqfyq
+[ + ] COMISSÃO: R$70.80 | "SPA DO EMAGRECIMENTO" | https://tinyurl.com/2ez3wcrs
+[ + ] COMISSÃO: R$133.55 | "LIBERDADE E EMAGRECIMENTO" | https://tinyurl.com/2z2jwgc3
+[ + ] COMISSÃO: R$70.80 | "MARATONA DO EMAGRECIMENTO" | https://tinyurl.com/2ge99op5
+[ + ] COMISSÃO: R$88.50 | "EMAGREÇA COM PRAZER" | https://tinyurl.com/2hvtwn9p
+[ + ] COMISSÃO: R$58.27 | "VIVA EMAGRECENDO" | https://tinyurl.com/2drts9tv
+[ + ] COMISSÃO: R$53.71 | "EMAGREÇA COM SAÚDE" | https://tinyurl.com/2qhc3x57
+[ + ] COMISSÃO: R$120.20 | "PROTOCOLO DO EMAGRECIMENTO" | https://tinyurl.com/2gw9xtgx
+[ + ] COMISSÃO: R$56.97 | "EMAGREÇA COM ANGINHA" | https://tinyurl.com/2n4u9jmr
+[ + ] COMISSÃO: R$270.15 | "O MAPA DO EMAGRECIMENTO" | https://tinyurl.com/2j9syuxf
+[ + ] COMISSÃO: R$70.80 | "SPA DO EMAGRECIMENTO" | https://tinyurl.com/2ez3wcrs
+[ + ] COMISSÃO: R$70.80 | "MARATONA DO EMAGRECIMENTO" | https://tinyurl.com/2ge99op5
+[ + ] COMISSÃO: R$133.55 | "LIBERDADE E EMAGRECIMENTO" | https://tinyurl.com/2z2jwgc3
+[ + ] COMISSÃO: R$52.14 | "REVOLUÇÃO DO EMAGRECER" | https://tinyurl.com/2k94epty
+[ + ] COMISSÃO: R$282.23 | "XTREME EMAGRECIMENTO" | https://tinyurl.com/2ft54nl5
+[ + ] COMISSÃO: R$52.14 | "COMA MAIS E EMAGREÇA" | https://tinyurl.com/2j6weyzc
+[ + ] COMISSÃO: R$69.52 | "BÍBLIA DO EMAGRECIMENTO" | https://tinyurl.com/2jyhyn36
+---------------------------------------------
+
+[ + ] Arquivo EXEMPLO2.TXT gerado com sucesso!
+
+[ ! ] Busca realizada com exito! Encerrando sistema...
+
+C:\hotmart_auto>
